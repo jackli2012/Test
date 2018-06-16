@@ -1,0 +1,12 @@
+# Mendeley
+* 视频
+ * 万门，网易云课堂，coursera,Udacity
+* 教科书
+ * 周志华老师（机器学习）
+ * lan Goodfellow <<深度学习>>
+ * W.Mckinnye <<Python for data analysis>>
+   
+* Paper论文或者小章节 （理论基础较好者，在有志学习深度学习以及人工智能）
+ * http://arxiv.org/abs/1710.09829
+ * http://doi.org/10.1109/5.726791
+ * http://doi.org/10.1145/2959100.2959190
